@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bendy.png" width="797" height="869">
+  <SubTexture name="bendy left0001.png" x="0" y="0" width="237" height="146" rotated="true"  frameX="-0" frameY="-0" frameWidth="146" frameHeight="237"/>
+  <SubTexture name="bendy left0000.png" x="237" y="0" width="237" height="147" rotated="true"  frameX="-0" frameY="-0" frameWidth="147" frameHeight="237"/>
+  <SubTexture name="bendy idle0000.png" x="474" y="0" width="243" height="181" rotated="true"  frameX="-0" frameY="-0" frameWidth="181" frameHeight="243"/>
+  <SubTexture name="bendy idle0003.png" x="0" y="147" width="241" height="184" rotated="true"  frameX="-0" frameY="-0" frameWidth="184" frameHeight="241"/>
+  <SubTexture name="bendy idle0002.png" x="241" y="181" width="238" height="185" rotated="true"  frameX="-0" frameY="-0" frameWidth="185" frameHeight="238"/>
+  <SubTexture name="bendy idle0001.png" x="479" y="181" width="235" height="186" rotated="true"  frameX="-0" frameY="-0" frameWidth="186" frameHeight="235"/>
+  <SubTexture name="bendy down0000.png" x="0" y="331"  width="238" height="201" frameX="-0" frameY="-0" frameWidth="238" frameHeight="201"/>
+  <SubTexture name="bendy down0001.png" x="238" y="367"  width="243" height="203" frameX="-0" frameY="-0" frameWidth="243" frameHeight="203"/>
+  <SubTexture name="bendy up0000.png" x="481" y="367" width="277" height="213" rotated="true"  frameX="-0" frameY="-0" frameWidth="213" frameHeight="277"/>
+  <SubTexture name="bendy up0001.png" x="0" y="570" width="274" height="214" rotated="true"  frameX="-0" frameY="-0" frameWidth="214" frameHeight="274"/>
+  <SubTexture name="bendy right0000.png" x="274" y="580"  width="290" height="231" frameX="-0" frameY="-0" frameWidth="290" frameHeight="231"/>
+  <SubTexture name="bendy right0001.png" x="564" y="580" width="233" height="289" rotated="true"  frameX="-0" frameY="-0" frameWidth="289" frameHeight="233"/>
+</TextureAtlas>
